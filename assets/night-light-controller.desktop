@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Night Light Controller
+Comment=Control your screen colour temperature from the XFCE system tray
+Exec=night-light-controller
+Icon=weather-clear-night
+Terminal=false
+Categories=Utility;Settings;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
